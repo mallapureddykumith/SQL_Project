@@ -1,6 +1,5 @@
 # SQL_Project
 SQL project notes, queries, database concepts, and practice examples.
-# SQL Project
 ## 📌 Project Overview
 This repository contains my SQL project notes, queries, and practical exercises developed while learning SQL and database management. It demonstrates my understanding of database concepts and the use of SQL to store, retrieve, manage, and analyze data.
 
